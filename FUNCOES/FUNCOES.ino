@@ -9,7 +9,7 @@
 #define PORTAO_C 2
 #define PORTAO_D 3
 
-//ANA BEATRIZ
+
 void newPinMode(int pino, bool modo, int portao);
 void newDigitalWrite(int pino, bool valor, int portao);
 bool newDigitalRead(int pino, int portao);
